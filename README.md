@@ -1,6 +1,6 @@
 # Braids
 
-Python scripts for building, and preparation for 3D printing,
+Python scripts for construction, and preparation for 3D printing,
 a model of a braid in Blender 2.77
 
 1. bezier_braid.py builds a 3 string braid adding 5 bezier curves to the scene
